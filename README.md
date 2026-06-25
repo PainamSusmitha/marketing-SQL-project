@@ -59,4 +59,4 @@ This project demonstrates how SQL can be used to analyze marketing performance a
 ---
 
 ## 🔗 Project Files
-- marketing_project.sql → SQL queries used for analysis
+- [marketing_project.sql](./marketing_project.sql) → SQL queries used for analysis
